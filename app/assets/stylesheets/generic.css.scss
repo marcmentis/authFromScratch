@@ -1,0 +1,421 @@
+//http://www.w3schools.com/cssref/css_colors.asp  COLORS
+	// light blues: #99FFFF; #CCFFFF; #D6FFFF; #E2F3F3
+
+.LtContainer60percent_g {
+  float: left;
+  width: 60%;
+  padding-top: 15px;
+  margin-left: 10px;
+  //background: red; 
+}
+.RtContainer36percent_g {
+	float: left;
+	width: 36%;
+	border-style: groove;
+	border-width: 2px;
+	margin-left: 20px;
+	margin-top: 18px;
+	padding-left: 5px;
+	background: #E2F3F3;
+	//background: #F0F3FF;
+	//background: green;
+}
+.cnr0auto0auto{
+	margin: 0 auto 0 auto;
+	width: 60%;
+	background: #E2F3F3;
+	border: 2px;
+	border-style: groove;
+	padding: 4px;
+}
+
+
+.cnrGroove_g {
+	background-color: #F0F3FF;
+	text-align: center;
+	vertical-align: top;
+	padding: 1px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: groove;
+	border-right-style: groove;
+	border-bottom-style: groove;
+	border-left-style: groove;
+	position: relative;
+	overflow: hidden;
+}
+.ltGroove_g {
+	background-color: #F0F3FF;
+	text-align: left;
+	vertical-align: top;
+	padding: 1px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: groove;
+	border-right-style: groove;
+	border-bottom-style: groove;
+	border-left-style: groove;
+	position: relative;
+	overflow: hidden;
+}
+
+.cnrNoGroove_g {
+	background-color: #F0F3FF;
+	text-align: center;
+	vertical-align: top;
+	padding: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	position: relative;
+	overflow: hidden;
+}
+.wrap1_g {
+	margin: 1px;
+	padding: 1px;
+	position: relative;
+	overflow: hidden;
+}
+
+.LtFloatOnly_g {
+	margin: 1px;
+	padding: 1px;
+	position: relative;
+	float: left;
+	overflow: hidden;
+}
+.LtClear_g {
+	clear: left;
+}
+.enterTextSelect1_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	position: relative;
+}
+
+ .enterText1_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-align: center;
+	position: relative;
+	letter-spacing: normal;
+	vertical-align: middle;
+	word-spacing: normal;
+	margin: 2px;
+	padding: 3px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: inset;
+	border-right-style: inset;
+	border-bottom-style: inset;
+	border-left-style: inset;
+}
+.enterTextArea1_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	text-align: left;
+	position: relative;
+	white-space: pre;
+	vertical-align: top;
+	font-style: normal;
+}
+ .enterText1_10px_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	text-align: center;
+	position: relative;
+	letter-spacing: normal;
+	vertical-align: middle;
+	word-spacing: normal;
+	margin: 2px;
+	padding: 3px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: inset;
+	border-right-style: inset;
+	border-bottom-style: inset;
+	border-left-style: inset;
+	height: 10px;
+}
+.enterTextArea1_10px_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	text-align: left;
+	position: relative;
+	white-space: pre;
+	vertical-align: top;
+	font-style: normal;
+}
+.enterDate_g {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	text-align: center;
+	border: 2px inset #CCC;
+}
+.selectWidth_g {
+	width: 125px;
+}
+.dateWidth_g {
+	width: 70px;
+}
+
+.checkbox1_g {
+	/*display: block;
+	clear: left;*/
+	/*float: left;
+	top: -5px;*/	
+	width: 19px;     
+	height: 13px;     
+	padding: 0;     
+	margin:0;     
+	vertical-align: middle;     
+	position: relative;     
+	top: -1px;     
+	/**overflow: hidden;*/ 
+}
+.button9_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+.button10_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+.button11_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+
+
+.loadingDiv2_g {
+	background-color: #00FF00;
+	text-align: center;
+	margin: 0px;
+	padding: 1px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	position: fixed;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 11px;
+	top: 5em;
+	height: auto;
+	width: auto;
+	left: 5em;
+	display: none;
+	overflow: hidden;
+}
+.hidden_g{
+   display: none;
+}
+.accentRed_g {
+	color: #FF0000;
+	position: relative;
+	font-weight: bold;
+}
+.accentBlack_g {
+	color: #000000;
+	position: relative;
+	font-weight: normal;
+}
+
+.noBorder_g {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	position: relative;
+	text-align: center;
+	overflow: hidden;
+}
+.tempSave_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #FFFF00;
+	text-align: center;
+	margin: 1px;
+	padding: 1px;
+	width: 275px;
+	position: relative;
+	border: 1px solid #CCCCCC;
+}
+.permSave_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #FF6464;
+	text-align: center;
+	margin: 1px;
+	padding: 1px;
+	width: 275px;
+	position: relative;
+	border: 1px solid #CCCCCC;
+}
+.picture_g {
+	margin-top: 1em;
+	overflow: hidden;
+	position: relative;
+}
+.divScroll_g {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	background-color: #FFFFFF;
+	letter-spacing: normal;
+	text-align: left;
+	vertical-align: top;
+	word-spacing: normal;
+	white-space: normal;
+	margin: 0em;
+	padding: 1px;
+	position: relative;
+	overflow: scroll;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.scrollWrap_g {
+	background-color: #FFFFFF;
+	text-align: center;
+	vertical-align: top;
+	padding: 1px;
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: groove;
+	border-right-style: groove;
+	border-bottom-style: groove;
+	border-left-style: groove;
+	position: relative;
+	overflow: hidden;
+	margin-bottom: 1em;
+}
+.textDisabled_g {
+	background-color: #F3F3F3;
+	text-align: center;
+	margin: 1px;
+	padding: 1px;
+	border: 1px solid #999;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#divCheckBoxes label{
+	vertical-align: baseline;
+	position: relative;
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+}
+#divTxTable table{
+    border: none;
+	border-collapse: collapse;
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+}
+
+#divTxTable thead tr{
+	background-color:#CCCCCC;	
+}
+#divTxTable th{
+	font-size:10px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+	text-align: center;
+	border-bottom-color: #000;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	padding: 1px;
+	position: relative;
+	margin: 0px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #999;
+}
+#divTxTable td{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:9px;
+	vertical-align: top;
+	border-right-width: 1px;
+	border-right-style: dotted;
+	border-right-color: #999;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+	padding: 1px;
+	margin: 0px;
+	background-color: #FFF;
+}
+.messageNotSaved_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #FFFF00;
+	text-align: center;
+	margin: 1px;
+	padding: 1px;
+	width: 275px;
+	position: relative;
+	border: 1px solid #CCCCCC;
+}
+.messageSaved_g {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #FF6464;
+	text-align: center;
+	margin: 1px;
+	padding: 1px;
+	width: 275px;
+	position: relative;
+	border: 1px solid #CCCCCC;
+}
+.bottomLine_g {
+	width: 75em;
+	padding: 0px;
+	border-bottom-width: 6px;
+	border-bottom-color: #0066FF;
+	border-bottom-style: solid;
+	margin-top: 0px;
+	margin-bottom: 3px;
+	position: relative;
+	margin-left: 2px;
+}
